@@ -1,0 +1,52 @@
+{
+  "android": {
+    "minBuild": 7,
+    "latestBuild": 7,
+    "force": false,
+    "message": "Update KasirGo v2.4.4 tersedia 🚀\n\n1. Perbaikan Laporan: Kalkulasi Laba Bersih, Laba Kotor, Total Modal, dan Modal Terjual kini lebih akurat serta menampilkan rincian.\n2. Perbaikan Poin Pelanggan: Poin loyalitas kini selalu terakumulasi ke pelanggan yang tepat, mencegah poin salah masuk ke pelanggan lain.\n\n⚠️ Disarankan data disinkronkan dahulu sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "features": {
+      "ads": {
+        "enabled": false
+      }
+    },
+    "promotions": {
+      "enabled": true,
+      "pos": {
+        "modal": {
+          "enabled": false,
+          "imageUrl": "",
+          "linkUrl": "",
+          "dismissCooldownDays": 7
+        }
+      }
+    },
+    "labs": {
+      "products": [
+        {
+          "id": "kasirgoplus",
+          "name": "KasirGo+",
+          "description": "Multi-device dan hak akses kasir/admin/owner",
+          "imageUrl": "https://play-lh.googleusercontent.com/dAEXY_-rk9UCxMaeh1hnrJg3vwoscEl7XHk5X3tqj_Cg9x7o7ZpGtnU-BiiPcd4DGbadu2KvsJCrwi7u7nq8HQ=w480-h960-rw",
+          "linkUrl": "https://play.google.com/store/apps/details?id=com.yl.kasirgoplus&hl=id",
+          "badge": "Play Store",
+          "icon": "rocket-outline",
+          "category": "Aplikasi",
+          "enabled": true,
+          "order": 1
+        },
+        {
+          "id": "rentalgo",
+          "name": "RentalGo",
+          "description": "Kasir dan Manajemen Rental",
+          "imageUrl": "https://play-lh.googleusercontent.com/7eDBEOJL5Yg-Ko42F6npe1Av-7gipL2ud4l11G1TM28-km_HAKtZOPbLCQNYnYTDEfUgjA5lhc8_4VJB3chSHA=w240-h480-rw",
+          "linkUrl": "https://play.google.com/store/apps/details?id=com.yl.rentalgo",
+          "badge": "Play Store",
+          "icon": "rocket-outline",
+          "category": "Aplikasi",
+          "enabled": true,
+          "order": 1
+        }
+      ]
+    }
+  }
+}
