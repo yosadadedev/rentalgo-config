@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 7,
-    "latestBuild": 7,
+    "minBuild": 8,
+    "latestBuild": 8,
     "force": false,
-    "message": "Update KasirGo v2.4.4 tersedia 🚀\n\n1. Perbaikan Laporan: Kalkulasi Laba Bersih, Laba Kotor, Total Modal, dan Modal Terjual kini lebih akurat serta menampilkan rincian.\n2. Perbaikan Poin Pelanggan: Poin loyalitas kini selalu terakumulasi ke pelanggan yang tepat, mencegah poin salah masuk ke pelanggan lain.\n\n⚠️ Disarankan data disinkronkan dahulu sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update RentalGo v1.0.2 tersedia 🚀\n\n1. Rental Transaksi: Menambahkan dukungan bukti jaminan berupa foto pada transaksi rental dan preview dari detail transaksi.\n\n2. Autentikasi: Memperbarui pengiriman OTP reset password untuk deliverability email yang lebih baik pada proses lupa password\n\n",
     "features": {
       "ads": {
         "enabled": false
