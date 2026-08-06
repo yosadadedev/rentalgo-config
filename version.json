@@ -1,7 +1,7 @@
 {
   "android": {
-    "minBuild": 8,
-    "latestBuild": 8,
+    "minBuild": 1,
+    "latestBuild": 1,
     "force": false,
     "message": "Update RentalGo v1.0.2 tersedia 🚀\n\n1. Rental Transaksi: Menambahkan dukungan bukti jaminan berupa foto pada transaksi rental dan preview dari detail transaksi.\n\n2. Autentikasi: Memperbarui pengiriman OTP reset password untuk deliverability email yang lebih baik pada proses lupa password\n\n",
     "features": {
