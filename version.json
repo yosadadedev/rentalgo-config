@@ -1,7 +1,7 @@
 {
   "android": {
-    "minBuild": 1,
-    "latestBuild": 1,
+    "minBuild": 11,
+    "latestBuild": 11,
     "force": false,
     "message": "Update RentalGo v1.0.5 tersedia 🚀\n\n1. Menambahkan opsi Tanpa Jaminan di pembayaran transaksi rental — untuk kasus yang tidak perlu foto dokumen (KTP/SIM) atau nominal uang jaminan.\n\n2.Menambahkan informasi Tanggal Jatuh Tempo di daftar transaksi dan laporan agar mudah memantau pengembalian rental.\n\n",
     "features": {
