@@ -3,7 +3,7 @@
     "minBuild": 1,
     "latestBuild": 1,
     "force": false,
-    "message": "Update RentalGo v1.0.2 tersedia 🚀\n\n1. Rental Transaksi: Menambahkan dukungan bukti jaminan berupa foto pada transaksi rental dan preview dari detail transaksi.\n\n2. Autentikasi: Memperbarui pengiriman OTP reset password untuk deliverability email yang lebih baik pada proses lupa password\n\n",
+    "message": "Update RentalGo v1.0.5 tersedia 🚀\n\n1. Menambahkan opsi Tanpa Jaminan di pembayaran transaksi rental — untuk kasus yang tidak perlu foto dokumen (KTP/SIM) atau nominal uang jaminan.\n\n2.Menambahkan informasi Tanggal Jatuh Tempo di daftar transaksi dan laporan agar mudah memantau pengembalian rental.\n\n",
     "features": {
       "ads": {
         "enabled": false
@@ -25,7 +25,7 @@
         {
           "id": "kasirgoplus",
           "name": "KasirGo+",
-          "description": "Multi-device dan hak akses kasir/admin/owner",
+          "description": "Aplikasi Kasir Praktis, Simple, Mudah pilihan UMKM",
           "imageUrl": "https://play-lh.googleusercontent.com/dAEXY_-rk9UCxMaeh1hnrJg3vwoscEl7XHk5X3tqj_Cg9x7o7ZpGtnU-BiiPcd4DGbadu2KvsJCrwi7u7nq8HQ=w480-h960-rw",
           "linkUrl": "https://play.google.com/store/apps/details?id=com.yl.kasirgoplus&hl=id",
           "badge": "Play Store",
@@ -34,18 +34,6 @@
           "enabled": true,
           "order": 1
         },
-        {
-          "id": "rentalgo",
-          "name": "RentalGo",
-          "description": "Kasir dan Manajemen Rental",
-          "imageUrl": "https://play-lh.googleusercontent.com/7eDBEOJL5Yg-Ko42F6npe1Av-7gipL2ud4l11G1TM28-km_HAKtZOPbLCQNYnYTDEfUgjA5lhc8_4VJB3chSHA=w240-h480-rw",
-          "linkUrl": "https://play.google.com/store/apps/details?id=com.yl.rentalgo",
-          "badge": "Play Store",
-          "icon": "rocket-outline",
-          "category": "Aplikasi",
-          "enabled": true,
-          "order": 1
-        }
       ]
     }
   }
