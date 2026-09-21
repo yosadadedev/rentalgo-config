@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 14,
-    "latestBuild": 14,
+    "minBuild": 15,
+    "latestBuild": 15,
     "force": false,
-    "message": "Update RentalGo v1.0.6 tersedia 🚀\n\n1. Optimasi proses sinkronisasi data agar lebih stabil dan cepat, terutama saat koneksi sempat terputus lalu pulih kembali.\n\n2. Menambahkan kode item/SKU saat menambah unit baru untuk memudahkan pencatatan dan pencarian barang.\n\n",
+    "message": "Update RentalGo v1.0.7 tersedia 🚀\n\n1. Menambahkan fitur Export dan Import data pelanggan secara massal di menu Kelola Pelanggan.\n\n2. Menambahkan Template Excel standar RentalGo beserta petunjuk pengisian agar data pelanggan mudah disiapkan dan diimpor tanpa salah format.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
