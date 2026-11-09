@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 15,
-    "latestBuild": 15,
+    "minBuild": 20,
+    "latestBuild": 20,
     "force": false,
-    "message": "Update RentalGo v1.0.7 tersedia 🚀\n\n1. Menambahkan fitur Export dan Import data pelanggan secara massal di menu Kelola Pelanggan.\n\n2. Menambahkan Template Excel standar RentalGo beserta petunjuk pengisian agar data pelanggan mudah disiapkan dan diimpor tanpa salah format.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
+    "message": "Update RentalGo v1.0.9 tersedia 🚀\n\n1. Struk cetak lebih rapi dan ringkas.\n2. Transaksi sewa lebih cepat: periode sewa cukup diatur sekali, item berikutnya otomatis memakai periode yang sama.\n3. Jaminan sewa kini bisa dicatat dengan nomor identitas (KTP, SIM, dll) atau foto bukti, dan keduanya opsional.\n\n Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
